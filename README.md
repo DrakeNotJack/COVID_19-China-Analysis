@@ -21,5 +21,5 @@ So I used "df1['Date'] = pd.to_datetime(string_date)" to assign the Date column,
 
 Also noted that in "Province_State" column there is a value named "Unknown", but I didn't remove it since it may affect the overall numbers although we don't know the number is from which province.
 
-
+The link to the Tableau dashboard is: https://public.tableau.com/views/Province_17028032820090/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
